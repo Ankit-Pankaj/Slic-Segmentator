@@ -1,0 +1,11 @@
+{
+  "name": "slic-segmentator",
+  "version": "1.0.0",
+  "description": "An angular library to segement an image using slic segmentation approach.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit Pankaj",
+  "license": "BSD 3-Clause"
+}
